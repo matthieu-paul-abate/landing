@@ -1,0 +1,32 @@
+.btn-blue{
+	background-color:rgb(36, 36, 51);
+	padding:15px 20px;
+	border-radius:4px;
+	color:white;
+	font-weight: bold;
+	font-family: 'Roboto Flex', sans-serif;
+}
+
+.btn-blue:hover{
+	background-color:rgb(120, 133, 136);
+	color:black;
+}
+
+.list-inline{
+	list-style:none;
+	padding-left:0px;
+}
+
+.list-inline li{
+	display:inline;
+	padding:10px;
+}
+
+.list-inline i{
+	font-size: 50px;
+	color:rgb(36, 36, 51);
+}
+
+.list-inline i:hover{
+	color:rgb(120, 133, 136);
+}
